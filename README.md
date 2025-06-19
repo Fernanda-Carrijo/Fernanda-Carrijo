@@ -1,9 +1,10 @@
-# 💻Olá! Seja muito Bem-vindo(a)!
+# 💻Olá Seja muito Bem-vindo(a)!
+
+**`Futura Desenvolvedora Fullstack`**
 
 Meu nome é Fernanda Carrijo, sou estudante de Engenharia de Software e uma apaixonada por tecnologia. Estou dando meus primeiros passos na área, sempre com muita curiosidade e vontade de aprender cada vez mais.
 
 Atualmente, estou aprofundando meus conhecimentos em Banco de Dados, desde a modelagem e normalização até a otimização de consultas e administração de sistemas. Acredito que dados bem estruturados são a base para sistemas eficientes e escaláveis.
-
 Estou constantemente buscando novos aprendizados, desafios e oportunidades para colocar em prática o que venho estudando.
 
 Acredito que a tecnologia tem o poder de transformar realidades, e quero fazer parte dessa transformação como desenvolvedora. Vamos aprender, compartilhar e crescer juntos nessa jornada!
