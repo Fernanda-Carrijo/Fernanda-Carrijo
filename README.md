@@ -3,10 +3,8 @@
 **`Futura Desenvolvedora Fullstack`**
 
 Meu nome é Fernanda Carrijo, sou estudante de Engenharia de Software e uma apaixonada por tecnologia. Estou dando meus primeiros passos na área, sempre com muita curiosidade e vontade de aprender cada vez mais.
-
 Atualmente, estou aprofundando meus conhecimentos em Banco de Dados, desde a modelagem e normalização até a otimização de consultas e administração de sistemas. Acredito que dados bem estruturados são a base para sistemas eficientes e escaláveis.
 Estou constantemente buscando novos aprendizados, desafios e oportunidades para colocar em prática o que venho estudando.
-
 Acredito que a tecnologia tem o poder de transformar realidades, e quero fazer parte dessa transformação como desenvolvedora. Vamos aprender, compartilhar e crescer juntos nessa jornada!
 
 ## Conecte-se comigo
@@ -29,7 +27,7 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero fazer p
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fernanda-Carrijo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Carrijo&layout=compact&theme=synthwave)
 
 
 ## GitHub Stats
